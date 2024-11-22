@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Football Talent U12</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="teams.html">Teams</a></li>
+                <li><a href="registration.html">Register</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h1>Welcome to Football Talent U12</h1>
+            <p>Discover and nurture young football talents under 12 years old.</p>
+        </section>
+        <section>
+            <h2>About Us</h2>
+            <p>Our mission is to find and develop the best football talents for future stardom. Join us to train, compete, and excel in the beautiful game.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Football Talent U12. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>

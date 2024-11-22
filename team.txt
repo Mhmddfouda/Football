@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teams - Football Talent U12</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="teams.html">Teams</a></li>
+                <li><a href="registration.html">Register</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Our Teams</h2>
+            <ul>
+                <li><strong>Team Lions:</strong> Skillful and agile players focusing on speed.</li>
+                <li><strong>Team Tigers:</strong> Known for their defensive strength.</li>
+                <li><strong>Team Eagles:</strong> High scorers with sharp offensive tactics.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Football Talent U12. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
